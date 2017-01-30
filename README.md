@@ -31,13 +31,19 @@ Write an application that takes numeric input (N) from a user and outputs a mult
 ![Big O Chart](./benchmark/big_o_chart.png)
 
 > n = 30
+>
 > O(n^c) Fractional Power
+>
 > y = 174.37x0.8671
+>
 > R^2 = 0.99115
 
 > n = 30
+>
 > O(n) Linear
+>
 > y = 91.766x + 335.8
+>
 > R^2 = 0.99794
 
 ## I am pleased with
