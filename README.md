@@ -41,13 +41,11 @@ Write an application that takes numeric input (N) from a user and outputs a mult
 > R^2 = 0.99794
 
 ## I am pleased with
-Keeping the module fully self contained.
 Able to implement a segmented sieve.
 
 ## Given more time I would:
 1. Created an output multiplication table.
 2. Used more functional syntax, map and reduce than iteration I used.
-3. Got the test to iterate and chain in the tests
-./spec/find_n_primes
+3. Removed the crazy code replication in the tests.
 
 

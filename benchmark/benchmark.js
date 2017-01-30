@@ -11,40 +11,40 @@ suite.add('100', function() {
     first_n_primes(200);
 }).add('300', function() {
     first_n_primes(300);
-}).add('400', function() {
-    first_n_primes(400);
-}).add('500', function() {
-    first_n_primes(500);
-}).add('600', function() {
-    first_n_primes(600);
-}).add('700', function() {
-    first_n_primes(700);
-}).add('800', function() {
-    first_n_primes(800);
-}).add('900', function() {
-    first_n_primes(900);
-}).add('1000', function() {
-    first_n_primes(1000);
-}).add('1100', function() {
-    first_n_primes(1100);
-}).add('1200', function() {
-    first_n_primes(1200);
-}).add('1300', function() {
-    first_n_primes(1300);
-}).add('1400', function() {
-    first_n_primes(1400);
-}).add('1500', function() {
-    first_n_primes(1500);
-}).add('1600', function() {
-    first_n_primes(1600);
-}).add('1700', function() {
-    first_n_primes(1700);
-}).add('1800', function() {
-    first_n_primes(1800);
-}).add('1900', function() {
-    first_n_primes(1900);
-}).add('2000', function() {
-    first_n_primes(2000);
+// }).add('400', function() {
+//     first_n_primes(400);
+// }).add('500', function() {
+//     first_n_primes(500);
+// }).add('600', function() {
+//     first_n_primes(600);
+// }).add('700', function() {
+//     first_n_primes(700);
+// }).add('800', function() {
+//     first_n_primes(800);
+// }).add('900', function() {
+//     first_n_primes(900);
+// }).add('1000', function() {
+//     first_n_primes(1000);
+// }).add('1100', function() {
+//     first_n_primes(1100);
+// }).add('1200', function() {
+//     first_n_primes(1200);
+// }).add('1300', function() {
+//     first_n_primes(1300);
+// }).add('1400', function() {
+//     first_n_primes(1400);
+// }).add('1500', function() {
+//     first_n_primes(1500);
+// }).add('1600', function() {
+//     first_n_primes(1600);
+// }).add('1700', function() {
+//     first_n_primes(1700);
+// }).add('1800', function() {
+//     first_n_primes(1800);
+// }).add('1900', function() {
+//     first_n_primes(1900);
+// }).add('2000', function() {
+//     first_n_primes(2000);
 // }).add('3000', function() {
 //     first_n_primes(3000);
 // }).add('4000', function() {
