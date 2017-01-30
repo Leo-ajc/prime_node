@@ -6,8 +6,8 @@
 Write an application that takes numeric input (N) from a user and outputs a multiplication table of (N) prime numbers.
 
 ## Install
-`git clone github url`
-`cd find_n_primes_node`
+`git clone https://github.com/Leo-ajc/prime_node.git`
+`cd prime_node`
 `npm install`
 
 ## Run 
