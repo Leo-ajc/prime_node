@@ -45,26 +45,26 @@ suite.add('100', function() {
     first_n_primes(1900);
 }).add('2000', function() {
     first_n_primes(2000);
-}).add('3000', function() {
-    first_n_primes(3000);
-}).add('4000', function() {
-    first_n_primes(4000);
-}).add('5000', function() {
-    first_n_primes(5000);
-}).add('6000', function() {
-    first_n_primes(6000);
-}).add('7000', function() {
-    first_n_primes(7000);
-}).add('8000', function() {
-    first_n_primes(8000);
-}).add('9000', function() {
-    first_n_primes(9000);
-}).add('10000', function() {
-    first_n_primes(10000);
-}).add('20000', function() {
-    first_n_primes(20000);
-}).add('30000', function() {
-    first_n_primes(30000);
+// }).add('3000', function() {
+//     first_n_primes(3000);
+// }).add('4000', function() {
+//     first_n_primes(4000);
+// }).add('5000', function() {
+//     first_n_primes(5000);
+// }).add('6000', function() {
+//     first_n_primes(6000);
+// }).add('7000', function() {
+//     first_n_primes(7000);
+// }).add('8000', function() {
+//     first_n_primes(8000);
+// }).add('9000', function() {
+//     first_n_primes(9000);
+// }).add('10000', function() {
+//     first_n_primes(10000);
+// }).add('20000', function() {
+//     first_n_primes(20000);
+// }).add('30000', function() {
+//     first_n_primes(30000);
 }).on('complete', function() {
     this.forEach(function(element) {
         // hz = The number of executions per second.

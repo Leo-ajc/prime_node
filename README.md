@@ -7,11 +7,14 @@ Write an application that takes numeric input (N) from a user and outputs a mult
 
 ## Install
 `git clone https://github.com/Leo-ajc/prime_node.git`
+
 `cd prime_node`
+
 `npm install`
 
 ## Run 
 `node ./src/cli.js 7`
+
 `$ [ 2, 3, 5, 7, 11, 13, 17 ]`
 
 ## Run tests
